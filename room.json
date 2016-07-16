@@ -1,0 +1,45 @@
+{
+    "room": "Chill, Relaxing, Positive",
+    "author": "Chill, Relaxing, Positive Staff",
+    "icon": "https://avatars3.githubusercontent.com/u/8566981?v=3&s=200.png",
+    "css": "https://rawgit.com/TheStrangerGuy/EDT/master/EDT.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": "#228B22",
+        "cohost": "#228B22",
+        "manager": "#68B354",
+        "bouncer": "#68B354",
+        "rdj": "#68B354",
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": null,
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
