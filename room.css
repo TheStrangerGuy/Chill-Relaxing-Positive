@@ -181,3 +181,6 @@ background: #c42e3b !important;
 #dj-button .left {
 background: #4169E1 !important;
 }
+.user-content.profile, .subscribe-button {
+background: rgba(0, 0, 0, 0.85) !important;
+}
