@@ -37,7 +37,7 @@ background: rgba(0,0,0,0.5) !important;
     background: rgba(0, 0, 0, 0.85)!important;
 }
 .app-right .friends .list .row.clickable .room, #room-settings .general-settings a, #room-settings .general-settings a:visited {
-    color: rgba(0, 0, 0, 0.85)!important;
+    color: rgba(65,105,225, 0.8)!important;
 }
 .icon-staff {
     background-position: 35px 520px !important;
@@ -52,7 +52,7 @@ background: rgba(0,0,0,0.5) !important;
 	width: 75px !important;
 }
 .app-header, #footer-user .info, #dashboard {
-    background: rgba(0, 0, 0, 0.80) !important;
+    background: rgba(0, 0, 0, 0.85) !important;
 }
 #volume .slider {
     background-color: rgba(0, 0, 0, 0) !important;
@@ -83,7 +83,7 @@ background: rgba(0,0,0,0.5) !important;
     background: rgba(0, 0, 0, 0.85)!important;
 }
 .app-right .friends .list .row.clickable .room, #room-settings .general-settings a, #room-settings .general-settings a:visited {
-    color: rgba(0, 0, 0, 0.85)!important;
+    color: rgba(65,105,225, 0.8)!important;
 }
 .icon-staff {
     background-position: 35px 520px !important;
