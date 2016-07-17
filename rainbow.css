@@ -1,3 +1,9 @@
+[data-cid^="3924364-~] #chat .from .un
+webkit-animation:rainbow 1s infinite;
+-ms-animation:rainbow 1s infinite;
+-o-animation:rainbow 1s infinite;
+animation:rainbow 1s infinite;
+
 #user-lists .list.room .user.id-3924364 .name {
 webkit-animation:rainbow 1s infinite;
 -ms-animation:rainbow 1s infinite;
