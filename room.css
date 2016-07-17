@@ -3,7 +3,8 @@
 }
 #room-name, #room-host, #now-playing-dj, #now-playing-media {
     left: 89px !important;
-	
+    color: #4169E1 !important;
+    font-weight: bold;
 }
 .app-header, #footer-user .info, #dashboard {
     background: rgba(0, 0, 0, 0.85) !important;
