@@ -1,8 +1,8 @@
 {
     "room": "Chill, Relaxing, Positive",
     "author": "Chill, Relaxing, Positive Staff",
-    "icon": "https://avatars3.githubusercontent.com/u/8566981?v=3&s=200.png",
-    "css": null,
+    "icon": "https://rawgit.com/TheStrangerGuy/Chill-Relaxing-Positive/master/images/Chill-Relaxing-Positive.png",
+    "css": "https://rawgit.com/TheStrangerGuy/Chill-Relaxing-Positive/master/room.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
