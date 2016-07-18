@@ -3,11 +3,12 @@
 }
 #room-name, #room-host, #now-playing-dj, #now-playing-media {
     left: 50px !important;
-    color: #4169E1 !important;
-    font-weight: bold;
 }
 .app-header, #footer-user .info, #dashboard {
     background: rgba(0, 0, 0, 0.85) !important;
+}
+.icon-site-logo {
+    background: url('URL DA IMAGEM 125x34');
 }
 #volume .slider {
     background-color: rgba(0, 0, 0, 0) !important;
