@@ -2,7 +2,7 @@
     "room": "Chill, Relaxing, Positive",
     "author": "Chill, Relaxing, Positive Staff",
     "icon": null,
-    "css": "https://rawgit.com/TheStrangerGuy/Template/master/room.css",
+    "css": null,
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
