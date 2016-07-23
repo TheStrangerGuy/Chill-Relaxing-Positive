@@ -15,3 +15,8 @@
 .icon-check-circle, .icon-check-purple {
     background-position: -70px -140px !important;
 }
+
+
+.icon-next-track {
+    background-position: -70px -175px !important;
+}
