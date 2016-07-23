@@ -1,3 +1,8 @@
 .header-panel-button.selected, #footer-user .buttons .button.store:hover, #footer-user .buttons .button:hover, #app-menu .list .logout:hover {
     background: rgba(0, 0, 0, 0.95) !important;
 }
+
+
+#app-menu .list .rcsunload:hover, #app-menu .list .item:hover {
+    background: rgba(12,12,12, 0.8); )!important;
+}
