@@ -11,3 +11,7 @@
 .icon-staff {
     background-position: 35px 520px !important;
 }
+
+.icon-check-circle, .icon-check-purple {
+    background-position: -70px -140px !important;
+}
