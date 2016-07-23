@@ -1,13 +1,18 @@
+.app-header, #footer-user .info, #dashboard {
+    background: rgba(0, 0, 0, 0.75) !important;
+}
+
+
 .header-panel-button.selected, #footer-user .buttons .button.store:hover, #footer-user .buttons .button:hover, #app-menu .list .logout:hover {
     background: rgba(0, 0, 0, 0.95) !important;
 }
 
 
-#app-menu .list .rcsunload:hover, #app-menu .list .item:hover {
-    background: rgba(49,49,49, 0.8))!important;
+.app-right .friends .list .row.clickable .room, #room-settings .general-settings a, #room-settings .general-settings a:visited {
+    color: rgba(93,98,165, 0.8)!important;
 }
 
 
-.app-right .friends .list .row.clickable .room, #room-settings .general-settings a, #room-settings .general-settings a:visited {
-    color: rgba(93,98,165, 0.8)!important;
+.experience .xp .bar .progress, #footer-user .info .bar .progress, .experience .levels .level.earned.avatar .label {
+	background: #5D62A5 !important;
 }
