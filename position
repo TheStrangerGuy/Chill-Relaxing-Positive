@@ -1,0 +1,13 @@
+.icon-room { 
+	width: 75px !important;
+}
+
+
+#room-name, #room-host, #now-playing-dj, #now-playing-media {
+    left: 89px !important;
+}
+
+
+.icon-staff {
+    background-position: 35px 520px !important;
+}
